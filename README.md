@@ -1,1 +1,1 @@
-# The model can predict the price of a house uning Linear Regression algorithm. 
+# The model can predict the price of a house using Linear Regression algorithm. 
